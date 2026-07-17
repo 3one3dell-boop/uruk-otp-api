@@ -1,9 +1,0 @@
-{
-  "name": "uruk-otp-backend",
-  "version": "1.0.0",
-  "description": "خادم OTP آمن لأوروك عبر Twilio Verify + Firebase Custom Token",
-  "private": true,
-  "dependencies": {
-    "firebase-admin": "^12.6.0"
-  }
-}
