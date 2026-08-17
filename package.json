@@ -4,7 +4,9 @@
   "description": "خادم OTP آمن لأوروك عبر Twilio Verify + Firebase Custom Token + رفع ملفات عبر Vercel Blob",
   "private": true,
   "dependencies": {
-    "firebase-admin": "^12.6.0",
-    "@vercel/blob": "^0.27.1"
+    "@aws-sdk/client-s3": "^3.1111.0",
+    "@aws-sdk/s3-request-presigner": "^3.1111.0",
+    "@vercel/blob": "^0.27.1",
+    "firebase-admin": "^12.6.0"
   }
 }
